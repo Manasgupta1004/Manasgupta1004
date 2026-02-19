@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Manas Gupta
 
-<!--
-**Manasgupta1004/Manasgupta1004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA 2nd Year Student  
+💻 Full Stack Developer (Frontend Focused)  
+⚛️ React | JavaScript | Node.js  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- Uber Clone (MERN Stack)
+- Portfolio Website
+- OTP Authentication System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+JavaScript | React | Node | Express | MongoDB | Tailwind
+
+## 📫 Connect With Me
+LinkedIn: (link)
+Email: (professional email)
