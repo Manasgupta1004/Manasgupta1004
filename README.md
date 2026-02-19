@@ -13,5 +13,5 @@
 JavaScript | React | Node | Express | MongoDB | Tailwind
 
 ## 📫 Connect With Me
-LinkedIn: (link)
-Email: (professional email)
+LinkedIn: https://www.linkedin.com/in/manasgupta1004/
+Email: itsmanasgupta1004@gmail.com
