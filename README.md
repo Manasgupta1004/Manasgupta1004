@@ -6,6 +6,7 @@
 
 ## 🚀 Projects
 - Uber Clone (MERN Stack): https://uber-clone-two-sage.vercel.app/
+- Resume Builder: https://ai-resume-builder-hswj.vercel.app/
 - Portfolio Website
 - OTP Authentication System
 
