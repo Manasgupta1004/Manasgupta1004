@@ -2,12 +2,12 @@
 
 🎓 BCA 2nd Year Student  
 💻 Full Stack Developer (Frontend Focused)  
-⚛️ React | JavaScript | Node.js 
+⚛️ React | JavaScript | Node.js | Express.js | MongoDB
 
 ## 🚀 Projects
 - Uber Clone (MERN Stack): https://uber-clone-two-sage.vercel.app/
 - Resume Builder: https://ai-resume-builder-hswj.vercel.app/
-- Portfolio Website
+- Portfolio Website: https://my-portfolio-three-sandy-496dogv3td.vercel.app/
 - OTP Authentication System
 
 ## 🛠 Tech Stack
